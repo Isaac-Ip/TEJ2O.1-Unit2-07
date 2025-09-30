@@ -11,6 +11,8 @@ basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
 input.onButtonPressed(Button.A, function() {
+    //adds a cookie
     numberOfCookies = numberOfCookies + 1
+    basic.clearScreen()
     basic.showNumber(numberOfCookies)
 })
