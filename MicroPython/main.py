@@ -1,6 +1,6 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
+Created by: Isaac Ip
+Created on: Sep 2025
 This module is a Micro:bit MicroPython program
 This program adds then shows the number of cookies.
 """
