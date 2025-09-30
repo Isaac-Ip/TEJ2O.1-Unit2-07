@@ -7,6 +7,7 @@
 
 let numberOfCookies = 0
 
+basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
 input.onButtonPressed(Button.A, function() {
