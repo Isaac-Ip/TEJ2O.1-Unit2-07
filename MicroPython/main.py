@@ -17,4 +17,3 @@ while True:
     if button_a.is_pressed():
         numberOfCookies = numberOfCookies + 1
         display.show(str(numberOfCookies))
-        
